@@ -1,0 +1,125 @@
+data:
+
+  -
+    name: Hornet docs
+    link: https://hornet.docs.iota.org/getting_started/installation_steps.html
+    tags:
+      - node
+      - setup
+      - hornet
+
+  -
+    name: Nuriels playbook with docker
+    link: https://github.com/nuriel77/hornet-playbook
+    tags:
+      - node
+      - setup
+      - hornet
+
+  -
+    name: Phylo's Guide Part 1
+    link: https://phyloiota.medium.com/iota-hornet-node-installation-81747de28338
+    tags:
+      - node
+      - setup
+      - hornet
+
+  -
+    name: Phylo's Guide Part 2
+    link: https://phyloiota.medium.com/iota-hornet-node-installation-2-8f2639e04d1d
+    tags:
+      - node
+      - setup
+      - hornet
+
+  -
+    name: the APT guide from svenger87
+    link: https://github.com/svenger87/hornet-alphanet-tutorial
+    tags:
+      - node
+      - setup
+      - hornet
+      - mainnet
+
+  -
+    name: Demichele‘s Oneliner
+    link: https://github.com/demichele/install-hornet-1.5
+    tags:
+      - node
+      - setup
+      - hornet
+
+  -
+    name: IOTA Bee Chrysalis Setup
+    link: https://github.com/iotaledger/bee/blob/chrysalis-pt-2/bee-node/README.md
+    tags:
+      - node
+      - setup
+      - bee
+      - chrysalis
+
+  -
+    name: German guide from NO8ODY
+    link: https://tanglebay.com/article/1-bee-node-chrysalis/
+    tags:
+      - node
+      - setup
+      - bee
+      - German
+
+  -
+    name: Azure IOTA HORNET node
+    link: https://azuremarketplace.microsoft.com/en-us/marketplace/apps/eikonasystemsgmbh1601729310063.iota-101101?tab=overview
+    tags:
+      - node
+      - setup
+      - hornet
+      - azure
+      - azuremarketplace
+
+  -
+    name: AWS Chrysalis HORNET node
+    link: https://aws.amazon.com/marketplace/pp/prodview-x4w6k3m5foo74?ref_=srh_res_product_title
+    tags:
+      - node
+      - setup
+      - hornet
+      - chrysalis
+      - aws
+      - awsmarketplace
+
+  -
+    name: AWS Chrysalis Private Tangle
+    link: https://aws.amazon.com/marketplace/pp/prodview-5x3y35qhgbl7c?ref_=srh_res_product_title
+    tags:
+      - node
+      - setup
+      - crysalis
+      - private
+      - aws
+      - awsmarketplace
+
+  -
+    name: RaspiHive
+    link: https://docs.raspihive.org/docs/install#45-first-start-of-raspihive-and-installation-of-the-hornet-node
+    tags:
+      - node
+      - setup
+      - hornet
+      - raspeberrypi
+
+  -
+    name: Jelastic
+    link: https://jelastic.com/iota/
+    tags:
+      - node
+      - setup
+      - jelastic
+      - PaaS
+
+  # -
+  #   name: 
+  #   link: 
+  #   tags:
+  #     - node
+  #     - setup
